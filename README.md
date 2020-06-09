@@ -29,10 +29,10 @@ To clone and run this application, you'll need [Vue CLI](https://cli.vuejs.org/)
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/luizpaulogroup/vue-profile-github
+$ git clone https://github.com/luizpaulogroup/vue-search-profile-github
 
 # Go into the repository
-$ cd vue-profile-github
+$ cd vue-search-profile-github
 
 # Install dependencies
 $ npm install

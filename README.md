@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React logo" width="70px" height="70px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/vue.png" />
+    <img alt="React logo" width="50px" height="50px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/vue.png" />
     <br>
     Search user from github
 </h1>

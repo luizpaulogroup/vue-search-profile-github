@@ -11,7 +11,7 @@
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center"><img alt="React logo" width="70px" height="70px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/vue.png" /></p>
+<p align="center"><img src="https://github.com/luizpaulogroup/vue-search-profile-github/blob/master/src/assets/1.png" /></p>
 
 ## :rocket: Technologies
 
